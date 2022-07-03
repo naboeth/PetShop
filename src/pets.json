@@ -9,7 +9,7 @@
   },
   {
     "id": 1,
-    "name": "Gina",
+    "name": "Gertrude",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
     "breed": "Scottish Terrier",
@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "name": "Collins",
+    "name": "Klaus",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
@@ -57,7 +57,7 @@
   },
   {
     "id": 7,
-    "name": "Coleman",
+    "name": "Antonious",
     "picture": "images/golden-retriever.jpeg",
     "age": 3,
     "breed": "Golden Retriever",
